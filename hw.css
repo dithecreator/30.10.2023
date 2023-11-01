@@ -1,0 +1,46 @@
+menu{
+    background-color: brown;
+    height: 70px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
+.header{
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    line-height: 70px;
+}
+
+.header:hover{
+    background-color: rgb(106, 24, 24);
+}
+h1{
+    margin-left: 10px;
+}
+.bio{
+    width: 900px;
+    margin-left: 10px;
+}
+
+.image{
+    width: 400px;
+    height: 500px;
+    background-color: aliceblue;
+    margin-left: 1000px;
+    margin-top: -650px;
+    border: 0.2px gray solid;
+    line-height: 15px;
+}
+.pic{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+
+
+
